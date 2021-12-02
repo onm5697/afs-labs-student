@@ -22,7 +22,7 @@ spec:
       - envFrom:
          - secretRef:
              name: db-secret      
-        name: app-deployment
+        name: db-deployment
         image: harbor.dev.afsmtddso.com/omatthew-harbor-project/db:49d0fd3-a1d0f4c
         ports:
         - containerPort: 5432
