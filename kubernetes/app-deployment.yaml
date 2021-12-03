@@ -26,3 +26,4 @@ spec:
         image: harbor.dev.afsmtddso.com/omatthew-harbor-project/app:49d0fd3-a1d0f4c
         ports:
         - containerPort: 5000
+ 
