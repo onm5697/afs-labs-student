@@ -2,6 +2,7 @@
 -- PostgreSQL database dump
 --
 -- New comment omattew
+-- New comment1
 
 -- NEW COMMENT - testing db pipeline pt 5
 
